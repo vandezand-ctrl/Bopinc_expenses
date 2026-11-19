@@ -1,4 +1,4 @@
-> **No longer maintained.** BOP Expenses was a small app I built for Bopinc to make expense management easier: photograph a receipt, let AI read it, and send the expense sheet to finance. It has since been replaced by Claude skills that do the same work, so this app is obsolete and is no longer updated. It stays here for reference only.
+> **No longer maintained.** BOP Expenses was an app I built for Bopinc to make expense management easier, with AI reading the receipts. It has since been replaced by Claude skills that do the same work, so this app is obsolete and is no longer updated. It stays here for reference only.
 
 # BOP Expenses – Deployment Guide
 
